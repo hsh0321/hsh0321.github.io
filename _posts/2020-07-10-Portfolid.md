@@ -4,7 +4,7 @@ title:  "AR Indoor Navigation with Tensorflow, ARcore"
 author: HSH
 categories: [ Project ]
 tags: [ Unity,ARcore,Tensorflow,Android ]
-image: assets/images/2.jpg
+image: assets/images/AR_navigation_1.jpg
 rating: 
 ---
 
