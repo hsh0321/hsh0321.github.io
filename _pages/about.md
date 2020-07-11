@@ -11,5 +11,5 @@ imageshadow: true
 2021.2 - 인하대학교 정보통신공학과 졸업 예정		
 ..
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+`<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>`
 
