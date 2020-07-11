@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
-author: sal
-categories: [ Lifestyle ]
-tags: [ France ]
+title:  "AR Indoor Navigation with Tensorflow, ARcore"
+author: HSH
+categories: [ Project ]
+tags: [ Unity,ARcore,Tensorflow,Android ]
 image: assets/images/2.jpg
-rating: 4.5
+rating: 
 ---
 
 Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
