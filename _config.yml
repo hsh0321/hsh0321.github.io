@@ -2,8 +2,8 @@
 name: "Sung-hyun,Hwang"
 title: "HSH"
 description: "HSH Software Developer Blog"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/console_icon.png'
+favicon: 'assets/images/console_icon.png'
 baseurl: 
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
