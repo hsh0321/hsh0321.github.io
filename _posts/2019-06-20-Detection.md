@@ -4,7 +4,7 @@ title:  "OpenCV(Face, Human, Car Detection)"
 author: HSH
 categories: [ Project ]
 tags: [ Unity,ARcore,Tensorflow,Android ]
-image: assets/images/face_detect.gif
+image: ![Alt Text](assets/images/face_detect.gif)
 rating: 
 ---
 
