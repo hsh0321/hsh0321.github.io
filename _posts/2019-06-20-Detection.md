@@ -10,7 +10,7 @@ categories: [ Project ]
 
 tags: [ Unity,ARcore,Tensorflow,Android ]
 
-image: assets/images/face_detect.jpg
+image: ![](http://i.imgur.com/60bts.gif)
 
 rating: 
 
