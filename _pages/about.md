@@ -3,7 +3,7 @@ layout: page
 title: Information and Communication Engineering at Inha University.
 permalink: /about
 comments: false
-image: assets/images/hsh_photo.jpg
+image: (assets/images/hsh_photo.jpg){: width="25%" height="25%"}
 imageshadow: true
 ---
 
