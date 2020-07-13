@@ -3,9 +3,9 @@ layout: post
 title:  "FingerPrint Detection(OpenCV)"
 author: HSH
 categories: [ Project ]
-tags: [ Unity,ARcore,Tensorflow,Android ]
-image: 
-rating: 
+tags: [ OpenCV,Digital Image Processing,Fingerprint ]
+image: assets/images/fingerprint.jpg
+rating: 5.0
 ---
 
 Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
