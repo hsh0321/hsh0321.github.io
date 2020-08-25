@@ -22,14 +22,14 @@ image: assets/images/face_detect.gif
 
 *GUI 프로그램 개발에 QT를 Visual Studio와 연동하여 Window 응용 프로그램을 제작하였다.*
 
-###[Source Code 보러 가기](https://github.com/hsh0321/Object-Detection/tree/master)
+### [Source Code 보러 가기](https://github.com/hsh0321/Object-Detection/tree/master)
 
-##프로젝트 영상
+## 프로젝트 영상
 ![image](../assets/images/project/face/human.gif)
 
 ![image](../assets/images/project/face/car.gif)
 
-###face
+### face
 ![image](../assets/images/project/face/list.png)
 
 <img src="../assets/images/project/face/face1.png" width="300px" >　　<img src="../assets/images/project/face/face2.png" width="320px" >
@@ -39,8 +39,8 @@ image: assets/images/face_detect.gif
 <img src="../assets/images/project/face/face10.jpg" width="300px" >　　<img src="../assets/images/project/face/face11.png" width="300px" >
 
 
-##사진
-###human
+## 사진
+### human
 ![image](../assets/images/project/face/body1.png)
 <img src="../assets/images/project/face/body6.png" width="300px" >　　<img src="../assets/images/project/face/body7.png" width="300px" >
 
@@ -48,7 +48,7 @@ image: assets/images/face_detect.gif
 
 <img src="../assets/images/project/face/body12.png" width="300px" >　　<img src="../assets/images/project/face/body8.png" width="300px" >
 
-###car
+### car
 ![image](../assets/images/project/face/car1.png)
 <img src="../assets/images/project/face/car2.png" width="300px" >　　<img src="../assets/images/project/face/car3.png" width="300px" >
 
