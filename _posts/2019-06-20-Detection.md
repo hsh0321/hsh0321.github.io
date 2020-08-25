@@ -31,26 +31,26 @@ image: assets/images/face_detect.gif
 ###face
 ![image](../assets/images/project/face/list.png)
 
-<img src="../assets/images/project/face/face1.png" height="320px" >　　<img src="../assets/images/project/face/face2.png" height="320px" >
+<img src="../assets/images/project/face/face1.png" width="300px" >　　<img src="../assets/images/project/face/face2.png" width="320px" >
 
-<img src="../assets/images/project/face/face3.jpg" height="340px" >　　<img src="../assets/images/project/face/face4.jpg" height="340px" >
+<img src="../assets/images/project/face/face3.jpg" width="300px" >　　<img src="../assets/images/project/face/face4.jpg" height="340px" >
 
-<img src="../assets/images/project/face/face10.jpg" height="300px" >　　<img src="../assets/images/project/face/face11.png" height="300px" >
+<img src="../assets/images/project/face/face10.jpg" width="300px" >　　<img src="../assets/images/project/face/face11.png" width="300px" >
 
 
 ##사진
 ###human
 ![image](../assets/images/project/face/body1.png)
-<img src="../assets/images/project/face/body6.png" height="300px" >　　<img src="../assets/images/project/face/body7.png" height="300px" >
+<img src="../assets/images/project/face/body6.png" width="300px" >　　<img src="../assets/images/project/face/body7.png" width="300px" >
 
-<img src="../assets/images/project/face/body9.png" height="300px" >　　<img src="../assets/images/project/face/body11.png" height="300px" >
+<img src="../assets/images/project/face/body9.png" width="300px" >　　<img src="../assets/images/project/face/body11.png" width="300px" >
 
-<img src="../assets/images/project/face/body12.png" height="300px" >　　<img src="../assets/images/project/face/body8.png" height="300px" >
+<img src="../assets/images/project/face/body12.png" width="300px" >　　<img src="../assets/images/project/face/body8.png" width="300px" >
 
 ###car
 ![image](../assets/images/project/face/car1.png)
-<img src="../assets/images/project/face/car2.png" height="300px" >　　<img src="../assets/images/project/face/car3.png" height="300px" >
+<img src="../assets/images/project/face/car2.png" width="300px" >　　<img src="../assets/images/project/face/car3.png" width="300px" >
 
-<img src="../assets/images/project/face/car4.png" height="270px" >　　<img src="../assets/images/project/face/car5.png" height="290px" >
+<img src="../assets/images/project/face/car4.png" width="300px" >　　<img src="../assets/images/project/face/car5.png" width="290px" >
 
-<img src="../assets/images/project/face/car6.png" height="300px" >　　<img src="../assets/images/project/face/car7.png" height="300px" >
+<img src="../assets/images/project/face/car6.png" width="300px" >　　<img src="../assets/images/project/face/car7.png" width="300px" >
