@@ -33,7 +33,7 @@ image: assets/images/face_detect.gif
 
 <img src="../assets/images/project/face/face1.png" width="300px" >　　<img src="../assets/images/project/face/face2.png" width="320px" >
 
-<img src="../assets/images/project/face/face3.jpg" width="300px" >　　<img src="../assets/images/project/face/face4.jpg" height="340px" >
+<img src="../assets/images/project/face/face3.jpg" width="300px" >　　<img src="../assets/images/project/face/face4.jpg" width="300px" >
 
 <img src="../assets/images/project/face/face10.jpg" width="300px" >　　<img src="../assets/images/project/face/face11.png" width="300px" >
 
