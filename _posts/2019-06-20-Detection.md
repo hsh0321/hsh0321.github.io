@@ -22,8 +22,9 @@ image: assets/images/face_detect.gif
 
 *GUI 프로그램 개발에 QT를 Visual Studio와 연동하여 Window 응용 프로그램을 제작하였다.*
 
+###[Source Code 보러 가기](https://github.com/hsh0321/Object-Detection/tree/master)
 
-##시연 영상
+##프로젝트 영상
 ![image](../assets/images/project/face/human.gif)
 
 ![image](../assets/images/project/face/car.gif)
