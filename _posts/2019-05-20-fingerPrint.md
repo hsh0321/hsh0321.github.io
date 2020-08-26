@@ -9,6 +9,9 @@ image: assets/images/fingerprint.jpg
 
 ## OpenCV를 활용한 지문인식 프로젝트
 
+#### [소스코드 보러가기](https://github.com/hsh0321/FingerPrint_detection)
+
+
 #### 지문 유형 분포
   - 아래 표는 왼쪽 루프 유형이 팀 주변의 모든 손가락 중 대다수 (35 %)에서 나타나는 것을 보여줍니다. 다음 유형은 Whorl (27.5 %)입니다. 또한 Arch와 Tentarch는 우리 팀에 존재하지 않습니다. 결론적으로 루프 (오른쪽 루프, 왼쪽 루프, 이중 루프, 오른쪽 포켓 루프, 왼쪽 포켓 루프)가 지배적 인 유형입니다.
 
